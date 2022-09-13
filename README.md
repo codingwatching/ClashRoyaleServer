@@ -2,7 +2,7 @@
 
 ## ClashRoyale - Project
 ***ClashRoyale*** is a _lightweight_ Clash Royale game server.
-It has been **written by Berkan** from **GameDef**.  
+It has been **written by Berkan** from **GameDef** and **prq2noob**.  
 The goal of this emulator is to ensure a clean, easy-to-understand code environment.
 ClashRoyale uses dedicated threads and async operators. 
 **MongoDb servers** & a **memory based** saving server will be used to save players/clans/battles.
